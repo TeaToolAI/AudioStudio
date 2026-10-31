@@ -1,0 +1,6 @@
+{
+  "name": "Trình Chỉnh Sửa Âm Thanh Pro",
+  "description": "Trình chỉnh sửa âm thanh chuyên nghiệp chạy trực tiếp trên trình duyệt với lọc nhiễu, cắt ghép, đổi cao độ, tốc độ, 10-band EQ và xuất file chất lượng cao.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
